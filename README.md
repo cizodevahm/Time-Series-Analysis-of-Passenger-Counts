@@ -55,5 +55,6 @@ To use this notebook:
 
 The final output of the analysis is a CSV file (SARIMAX.csv) containing the predicted passenger counts for the test set.
 
-License
+## License
+
 This project is licensed under the MIT License - see the [LICENSE](Licence) file for details.
